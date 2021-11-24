@@ -1,6 +1,6 @@
 {
 "pingtai": [
-{ "address":"hansanlilun.txt","xinimg":"http://p2.so.qhmsg.com/t02a3bd890711408ef1.jpg","Number":"24","title":"\u97e9\u4e09\u7406\u8bba"},
-
+{ "address":"huangsecangku.txt","xinimg":"http://536ck.cc/statics/img/logo_max.png","Number":"24","title":"\u9ec4\u8272\u4ed3\u5e93"},
+{ "address":"xiaochoulu.txt","xinimg":"https://www.jokerlu6.pw/template/jokerlu/images/logo.png","Number":"3","title":"\u5c0f\u4e11\u64b8"},
 ]
 }
