@@ -1,0 +1,7 @@
+{
+"zhubo": [
+{ "address":"rtmp://alihdl9001.plures.net/live/4470d474-9173-4214-9a03-69ed5f9a0af9?auth_key=1628859743-0-0-4a504ab6ce11382a5cb1fd41e1b83534","img":"http://oss.suning.com/lzcourse/lzuseravatar/6eaacb52-41db-41e5-a825-79319c0ad6d7.jpg","title":"\u65F6\u5149\u80CC\u9762\u7684\u6211"},
+{ "address":"rtmp://alihdl9001.plures.net/live/ac40239e-eadd-4739-bde2-b83bd399ffd4?auth_key=1629122674-0-0-9d4c552d46ac9c147d654e6ccee05579","img":"http://r.plures.net/no-avatar.jpg","title":"\u641E\u4E8B\u5927\u4F6C"},
+{ "address":"rtmp://alihdl9001.plures.net/live/c414ab63-473d-4df5-aa32-782851d067ff?auth_key=1630587899-0-0-1257acd343aa1993b9ddfcc4d427dd51","img":"http://r.plures.net/no-avatar.jpg","title":"\u7136_399"}
+]
+}
