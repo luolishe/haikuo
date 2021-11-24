@@ -1,0 +1,5 @@
+{
+"zhubo": [
+{ "address":"https://video2.51daao.com/btt1/2020/11/20201123/BhcMB3Al/2000kb/hls/index.m3u8","img":"https://img1.taslgs.com/upload/vod/2020-11/2020-11-23/2020112303.jpg","title":"\u90d1\u5bb6\u7eaf\uff1a\u5728\u4e00\u8d77"},
+]
+}
